@@ -4,9 +4,6 @@ title:  "PostgreSQL, JSON and Hibernate	"
 date:   2019-09-13
 categories: PostgreSQL postgres JSON jsonb hibernate JPA
 ---
-
-#PostgreSQL, JSON and Hibernate	
-
 If you ever worked on a project which use SQL database, there is a possibility that in one point of time you've added a text column where you stored arbitary JSON data.
 This may be usefull when you have lot of metadata to store which is not used by system and is not very important. 
 
