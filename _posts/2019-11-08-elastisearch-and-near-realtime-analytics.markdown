@@ -4,7 +4,6 @@ title:  "Elasticsearch and Near Real Time Analytics"
 date:   2019-09-13
 categories: Elasticsearch analytics search query aggregations real-time
 ---
-# Elasticsearch and Near Real Time Analytics
 
 Recently, we got a request to create an analytics dashboard for the application's data we have. The data was stored within PostgreSQL and our initial idea was to build a queries which would drive these dashboards.
 
