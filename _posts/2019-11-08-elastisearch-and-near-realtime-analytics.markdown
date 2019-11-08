@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elasticsearch and Near Real Time Analytics"
-date:   2019-09-13
+date:   2019-11-08
 categories: Elasticsearch analytics search query aggregations real-time
 ---
 
